@@ -28,5 +28,5 @@ if (num3 < num1 && num3 < num2) {
     menor = num3
 }
 
-console.log(`el mayor numero es ${mayor}`)
-console.log(`el menor numero es ${menor}`)
+console.log(`el mayor numero es: ${mayor}`)
+console.log(`el menor numero es: ${menor}`)

@@ -4,8 +4,7 @@ let numeros = [2, 2, 2, 2]
 
 let suma = numeros.reduce(
     (acumulador, valor) => acumulador + valor,
-    0,
-  
+    0,  
 )
 
-console.log (suma)
+console.log (`La suma de los elementos es: ${suma}`)

@@ -1,3 +1,5 @@
+//Para el ejercicio anterior, generar una funcion para cada uno de los requerimientos.
+
 const personas = [
     { nombre: "Juan", sexoBiologico: "H", edad: 20},
     { nombre: "Carla", sexoBiologico: "M", edad: 38},

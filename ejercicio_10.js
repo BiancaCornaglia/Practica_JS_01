@@ -12,5 +12,5 @@ function sumarNumerosPares(array) {
 
 const numeros = [1, 2, 3, 4, 5];
 const resultado = sumarNumerosPares(numeros);
-console.log("Suma de números pares:", resultado);
+console.log(`La suma de los números pares es: ${resultado}`);
     

@@ -5,4 +5,4 @@ let num2 = 5
 
 sum = num1 + num2
 
-console.log ("la suma es " + sum)
+console.log (`El resultado de la suma es: ${sum}`)
